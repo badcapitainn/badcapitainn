@@ -63,8 +63,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/badcapitainn/badcapitainn/output/snake.svg" alt="Snake animation" />
-
 ###
 ###
 <!--
