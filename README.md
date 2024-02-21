@@ -1,4 +1,4 @@
-<h4 align="left">Just a guy who wants to change the world one line of code at a time</h4>
+<h4 align="left">Android is my thing</h4>
 
 
 <div align="left">
